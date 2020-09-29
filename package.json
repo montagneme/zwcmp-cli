@@ -1,6 +1,6 @@
 {
   "name": "zw-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -9,6 +9,7 @@
     "build-prod": "italent-thunder build prod",
     "lib": "stl build lib",
     "examples": "sbl start --port 9001",
+    "build-sbl": "sbl build",
     "prepublish": "npm run lib",
     "commit": "git-cz"
   },
