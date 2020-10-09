@@ -1,7 +1,7 @@
 import React from 'react';
 
-const DefaultPage = () => {
-  return <h1>This is a Component</h1>;
+const DefaultPage = props => {
+  return <h1>This is a {props.name}</h1>;
 };
 
 export default DefaultPage;

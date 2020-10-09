@@ -1,0 +1,17 @@
+{
+  "examples": {
+    "default": {
+      "title": "这是一个组件默认示例",
+      "content": "这是组件组件默认示例的介绍"
+    }
+  },
+  "properties": [
+    {
+      "name": "name",
+      "type": "string",
+      "description": "组件示例参数",
+      "required": false,
+      "default": ""
+    }
+  ]
+}
