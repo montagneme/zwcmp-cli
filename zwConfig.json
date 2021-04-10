@@ -1,4 +1,5 @@
 {
+  "name": "这是组件名称",
   "examples": {
     "default": {
       "title": "这是一个组件默认示例",
